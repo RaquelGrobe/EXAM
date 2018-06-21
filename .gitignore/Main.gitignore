@@ -1,0 +1,199 @@
+/*
+INTRODUCTION TO COMPUTER SCIENCE
+Information & Communication Technology (ICT)***************************************************************
+ICT discusses how to properly use computers within an organization to help solve business problems and meet organizational needs
+An ICT qualification will teach you how to develop and use computer applications to share, store, and manage data & information
+Topics studied include database systems, programming, networking and telecommunications, information security, web development, and human-computer interaction
+Computer Science (CS)**************************************************************************************
+CS uses theory and science to help create and build usable applications, such as video games, apps and computer programs
+A CS qualification will focus more on the theoretical and mathematical aspects of computing
+Topics studied include software development and design, algorithm analysis, computational theory, object-oriented and systems programming, data structures, and computer architecture
+If you enjoy mathematics, and like solving logic problems the CS may offer you some interesting opportunities
+Computer Science (CS) Careers*******************************************************************************
+New technological innovations and the increasing reliance of businesses and organizations on technology are driving the demand for skilled computer scientists. Careers in computer science are also associated with high salaries, which make it a popular subject to study. 
+Gaining a computer science qualification opens up opportunities in various fields, including information technology, telecommunications, aerospace and defence, financial services, retail, the public sector and charitable organisations.
+CS Careers: Computer Programmer***********************************************************************
+Job Description: A computer programmer converts project requirements into code to create and/or modify computer programs. A programmer may also develop instruction sequences for websites, machinery, everyday appliances and gadgets.
+Responsibilities may include:
+                   Developing, testing, and implementing computer programs for a variety of computer platforms and operating systems
+                   Writing operating instructions for users
+                   Developing web-based information systems
+                   Reviewing and updating programs
+                   Integrating new functionality into existing applications
+CS Careers: Software Developer**********************************************************************
+Job Description: A software developer has an important role in the design, installation, testing and maintenance of software systems. A developer is also responsible for writing and coding individual programs or creating new software, as well as modifying and integrating off-the-shelf software into existing networks.
+Responsibilities may include:
+Designing software and producing detailed specifications
+Programming test versions of software
+Testing for installation and compatibility issues
+Maintaining systems once they are up and running
+Preparing training manuals for users
+CS Careers: Network Engineer**********************************************************************
+Job Description: A network engineer installs, maintains and supports computer communication networks within an organisation. An engineer is responsible for ensuring that communication networks operate smoothly so that they provide maximum performance for users.
+Responsibilities may include:
+Installing, supporting and maintaining new server hardware and software infrastructure
+Managing email, anti-spam and virus protection
+Setting up user accounts, permissions and passwords
+Implementing, maintaining and monitoring network security
+Providing training and technical support for users
+CS Careers: Web Developer**********************************************************************
+Job Description: A web developer is responsible for the design, layout and coding of a website, as well as its subsequent maintenance and updates
+Responsibilities may include:
+Writing programming code to meet business requirements
+Designing page layouts, graphics, and animations
+Registering web domain names and organising the hosting of a website
+Testing websites and identifying any technical problems
+Editing content, debugging code and redesigning web pages
+CS Careers: Database Administrator****************************************************************
+Job Description: A database administrator assists with the planning and development of databases and is responsible for database performance, integrity, and security. An administrator also troubleshoots any issues users encounter.
+Responsibilities may include:
+Monitoring user access and security
+Monitoring performance to ensure fast responses to front-end users
+Mapping out designs for planned databases
+Monitoring available disk storage
+Developing, managing and testing backup on recovery plans
+CS Careers: Systems Analyst*****************************************************************************
+Job Description: A systems analyst designs new IT solutions to improve business efficiency and productivity. An analyst also produces costing for new systems and works closely with clients to implement solutions.
+Responsibilities may include:
+Analysing clients’ existing systems
+Identifying options for potential solutions
+Writing proposals for modifications or replacement systems
+Ensuring budgets are adhered to and deadlines are met
+Providing training to users of new systems
+The Use of Computing Technologies*********************************************************************
+The use of computing technologies continues to increase in popularity, and along with this the Internet has grown globally. Today it is hard to imagine a world without web-enabled smartphones, desktop computers, laptops, and tablets.
+As a result the way we access and use the Internet continues to evolve and this has forced computer scientists to change how they think about computing and programming.
+Uses of Computer Technology in Society********************************************************************
+The growth of the Internet and new computing technologies has led to a fundamental change in people’s lives at work and home.
+
+Medical Advances: Advances in monitoring equipment and the use of microprocessors in equipment such as artificial limbs and communication devices have revolutionized medical treatments
+Banking: The introduction of Internet and mobile banking services has given people more instant access to their money and greater flexibility in managing their finances.
+Shopping: Online retailers have made shopping at home extremely convenient and because online stores are open 24/7 people can shop whenever they choose.
+Social Media: Social media has changed the way we communicate and interact with others. It has also encouraged and enables people to become more aware of and involved with social and political debates.
+What is a computer program?*********************************************************************************
+ a computer program is a sequence of instructions that enables a computer to perform a task; all computing devices need programming in order to work. A program’s instructions can be written in a variety of programming languages and then translated into code that a computer can understand. Many new programming languages, such as Python, Java, and C++ have been developed to accommodate the new uses of computing technologies.
+ Compilers************************************************************
+ A set of instructions written in a high-level language is known as source code. The source code is translated into machine code that a computer can run using a compiler.
+Source Code 
+>>>>> Compiler  
+>>>>>>> Machine Code
+Assemblers*************************************************************************************
+Instructions written in assembly language, a low level language, uses a set of command words called mnemonics such as LOAD, STORE, and ADD. The instructions are specific to the hardware being programmed, and different CPUs use different languages. Assemblers are used to convert assembly language into machine code.
+Assembly Language 
+>>>>> Assembler 
+>>>>>>> Machine Code
+High-Level Languages:
+Programmers find it easier to write programs in code that looks more like normal languages; these are known as high-level languages. The code details how a problem is to be solved rather than giving instructions on how the computer will provide a solution. High-Level language is described as problem-oriented language.
+Low-Level Languages:
+Low-level languages provide instructions on how a computer will execute a program based on how the machine is built. The code will not work on any other type of machine. It is used for programming tasks that are associated with running of a computer. Low-level language is described as machine-oriented language. Programmers do not tend to use low-level languages for day-to-day programing as they are too complicated and difficult to understand.
+
+JAVA**********************************************************************************************************
+The Java language is one language in an interesting group of programming languages that does not follow the simple process described above for compilation, and assembly. Java has a few additional steps but to describe the process we need to use a few key words.
+Javac: is the “Java Compiler” and it compiles your Java code into “Bytecode”.
+JVM: is the “Java Virtual Machine” that Interprets/Runs/Translates the Bytecode into “Native Machine Code”
+JIT: is the “Just in Time Compiler” that compiles the given bytecode instructions into machine code at runtime before executing it natively. One of the main purposes of the JIT is to try to optimize the performance of the Java Code.
+HOW DOES THE JAVA VIRTUAL MACHINE WORK????
+A “Class Loader” is used to “load” the bytecode (.class file) into RAM.
+A “Bytecode Verifier” checks if there are any access restriction violations in the code. This is an important security feature in Java.
+The “Execution Engine” converts the bytecode into machine code for the specific computer (operating system and hardware). This is the “Native Machine Code”.
+HOW IT WORKS
+“Once upon a time there were many minions. Now every minion had different homes and they had different ways of living. But their master did not know. For him they were all the same. He used to give instructions to each of them in the same language to do something in their homes. But since the homes were different, the things were actually done in different ways but gave the same outcome.”
+
+In the same way, Java virtual machines or JVM are platform specific but java's philosophy is "Compile once and run everywhere". We know that the architecture is different between windows 32 bit and 64 bit. So we need to make sure that the code always runs and is the same on every system. To do this we have to have an intermediate stage in the processing that is very close to machine language called "Bytecode", so that all the source code get converted into a common form first.
+
+The Java Virtual Machine (JVM, or interpreter) interprets the bytecodes and converts them into native machine code according to the platform they are installed on thereby providing same results on different platforms.
+ADVANTAGES
+Platform independence
+Smaller executable size
+Dynamic Typing: the process of type checking at program run time
+DISADVANTAGES
+Slower execution
+Easily copied so intellectual property and copyright enforcement is a challenge
+Dynamic Type Checking is not as reliable as Static Type Checking (used in compiled languages).
+Security can be compromised with “Code Injection” attacks
+Some programming languages commonly compiled into bytecode are:
+Java
+.NET Framework
+Python
+Squeak Smalltalk
+Lisp
+Applescript
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+DIGITAL CITIZENSHIP
+Whether it is called digital citizenship, digital wellness or digital ethics the issues are the same; how should we act when we are online, and what should be taught to the next generation.  With the growth of Bring Your Own Device (BYOD) and 1:1 initiatives in schools there is a need to talk about responsible use of technology. 
+Digital Access:   full electronic participation in society. 
+Technology users need to be aware that not everyone has the same opportunities when it comes to technology.  Working toward equal digital rights and supporting electronic access is the starting point of Digital Citizenship. Digital exclusion makes it difficult to grow as a society increasingly using these tools. Helping to provide and expand access to technology should be goal of all digital citizens.  Users need to keep in mind that there are some that may have limited access, so other resources may need to be provided.  To become productive citizens, we need to be committed to make sure that no one is denied digital access.
+Digital Commerce:   electronic buying and selling of goods. 
+Technology users need to understand that a large share of market economy is being done electronically. Legitimate and legal exchanges are occurring, but the buyer or seller needs to be aware of the issues associated with it. The mainstream availability of Internet purchases of toys, clothing, cars, food, etc. has become commonplace to many users. At the same time, an equal amount of goods and services which are in conflict with the laws or morals of some countries are surfacing (which might include activities such as illegal downloading, pornography, and gambling). Users need to learn about how to be effective consumers in a new digital economy. 
+Digital Communication:   electronic exchange of information. 
+One of the significant changes within the digital revolution is a person’s ability to communicate with other people. In the 19th century, forms of communication were limited. In the 21st century, communication options have exploded to offer a wide variety of choices (e.g., e-mail, cellular phones, instant messaging).  The expanding digital communication options have changed everything because people are able to keep in constant communication with anyone else. Now everyone has the opportunity to communicate and collaborate with anyone from anywhere and anytime. Unfortunately, many users have not been taught how to make appropriate decisions when faced with so many different digital communication options.
+Digital Literacy:   process of teaching and learning about technology and the use of technology. 
+While schools have made great progress in the area of technology infusion, much remains to be done. A renewed focus must be made on what technologies must be taught as well as how it should be used. New technologies are finding their way into the work place that are not being used in schools (e.g., Videoconferencing, online sharing spaces such as wikis). In addition, workers in many different occupations need immediate information (just-in-time information). This process requires sophisticated searching and processing skills (i.e., information literacy). Learners must be taught how to learn in a digital society. In other words, learners must be taught to learn anything, anytime, anywhere.  Business, military, and medicine are excellent examples of how technology is being used differently in the 21st century. As new technologies emerge, learners need to learn how to use that technology quickly and appropriately. Digital Citizenship involves educating people in a new way— these individuals need a high degree of information literacy skills. 
+Digital Etiquette:   electronic standards of conduct or procedure.
+Technology users often see this area as one of the most pressing problems when dealing with Digital Citizenship. We recognize inappropriate behavior when we see it, but before people use technology they do not learn digital etiquette (i.e., appropriate conduct).   Many people feel uncomfortable talking to others about their digital etiquette.  Often rules and regulations are created or the technology is simply banned to stop inappropriate use. It is not enough to create rules and policy, we must teach everyone to become responsible digital citizens in this new society.
+Digital Law:   electronic responsibility for actions and deeds 
+Digital law deals with the ethics of technology within a society. Unethical use manifests itself in form of theft and/or crime. Ethical use manifests itself in the form of abiding by the laws of society. Users need to understand that stealing or causing damage to other people’s work, identity, or property online is a crime. There are certain rules of society that users need to be aware in a ethical society. These laws apply to anyone who works or plays online. Hacking into others information, downloading illegal music, plagiarizing, creating destructive worms, viruses or creating Trojan Horses, sending spam, or stealing anyone’s identify or property is unethical.
+Digital Rights & Responsibilities:   those freedoms extended to everyone in a digital world.
+Just as in the American Constitution where there is a Bill of Rights, there is a basic set of rights extended to every digital citizen. Digital citizens have the right to privacy, free speech, etc. Basic digital rights must be addressed, discussed, and understood in the digital world.  With these rights also come responsibilities as well.  Users must help define how the technology is to be used in an appropriate manner.  In a digital society these two areas must work together for everyone to be productive. 
+Digital Health & Wellness:   physical and psychological well-being in a digital technology world.
+Eye safety, repetitive stress syndrome, and sound ergonomic practices are issues that need to be addressed in a new technological world.  Beyond the physical issues are those of the psychological issues that are becoming more prevalent such as Internet addiction.  Users need to be taught that there are inherent dangers of technology. Digital Citizenship includes a culture where technology users are taught how to protect themselves through education and training. 
+Digital Security (self-protection):   electronic precautions to guarantee safety. 
+In any society, there are individuals who steal, deface, or disrupt other people. The same is true for the digital community. It is not enough to trust other members in the community for our own safety. In our own homes, we put locks on our doors and fire alarms in our houses to provide some level of protection. The same must be true for the digital security. We need to have virus protection, backups of data, and surge control of our equipment. As responsible citizens, we must protect our information from outside forces that might cause disruption or harm.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+DATA TYPES, CONSTANTS, AND VARIABLES
+Java Primitive Types
+Primitive types are the most basic data types available within the Java language. There are 8 primitive types: 
+byte, 
+char, 
+short, 
+int, 
+long, 
+float, and 
+double. 
+These are the building blocks of data manipulation in Java … but what about strings?
+Java Strings are not Primitive Data Types**************************
+In Java strings are “Objects” that represent a sequence of characters, and the java.lang.String class is used to create and manipulate these objects. so Java provides a String Class that allows you to create and manipulate “Strings”. There are many resources that provide information about the String class, and some of the most common tasks performed on Strings are: to find its length, compare two strings, concatenation (adding strings together), finding substrings (i.e. “all” is contained in the word “small”), converting case (i.e. “small” becomes “SMALL”), trimming off spaces. There are many operations that can be performed with this class and each of them is useful at different times.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+SDLC
+Software Development Life Cycle
+The software development life cycle, or SDLC, is a series of stages used for developing software products. It describes the phases of the development cycle and the order in which those phases are carried out. New software is more likely to be successful if it is carefully planned and developed.
+BASIC MODEL***********
+The basic model consists of 5 stages: Requirements Specification, Design, Implementation, Testing, and Maintenance. In the basic model stage must be completed before the next stage can take place, and it can be visualized either as a “circle”, or as a “sequence”.
+Requirements Specification: This document outlines the software’s planned features and functionality. The designer should constantly refer back to this document to ensure the final product will meet the user’s (customer’s) needs.
+Design: A detailed description of how the software will work is planned out; this is often done using a flow chart. This stage also involves designing the look for the user interface.
+Implementation: This stage involves writing the code to produce the software. The code should be tested and improved throughout the process.
+Testing: The software is tested to ensure that it meets the requirements outlined in the requirements specification.
+Maintenance: Once the software has been developed, it is important to ensure that the software continues to meet the user’s needs, newly identified problems are fixed and operational improvements are made.
+WATERFALL MODEL*********
+The waterfall model is actually the basic model described above, but it is best visualized as a “sequence”. This model is generally only used for smaller projects where the requirements are very well understood.
+Each stage must be completed before the next one begins
+After each stage a review is conducted primarily relating to work/time remaining etc. to determine if the project is on track
+Once the review is complete decisions will generally be made on whether or not it is feasible to continue with the project
+INCREMENTAL (ITERATIVE) MODEL*****************
+This model is well suited to small/medium sized projects where requirements are very well understood. This model starts with a simple implementation of a subset of the software requirements and incrementally/iteratively enhances the evolving versions until the full system is implemented. It has a higher chance of success over the waterfall model as test plans are developed early in the cycle.
+Multiple development cycles occur simultaneously
+Cycles are divided into smaller easily managed iterations
+Each iteration passess through the requirements, design, testing, and implementation stages
+A working version of the software is produced during the first build
+V-SHAPED MODEL******************
+This model is best for projects where there is a need to get the product to market early and where requirements may evolve over time.
+Each stage must be completed before the next one begins
+The testing phase is given a high priority, and test procedures and plans are developed early in the life cycle
+The high-level design, HLD, stage focuses on designing the software architecture
+The detailed specifications involve designing the actual program components
+When the coding is complete, the life cycle continues up the right side of the V and the test plans that were developed are utilised (run)
+SPIRAL MODEL****************
+This model is good for large projects where cost and risk evaluation is important.
+The model places emphasis on risk analysis
+There are six phases: Requirements Analysis, Preliminary Design, Detailed Design, Coding, Model Test, and System Test
+The software development process continues to pass through these phases, repeating the cycle
+Each subsequent spiral revisits the design phase and improves (expands) on the baseline spiral
+
+
+
+
+
+
+
+
+
